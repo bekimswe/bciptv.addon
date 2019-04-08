@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.IPTV.community" name="IPTV Community" version="1.0" provider-name="iptv.community">
+<addon id="plugin.video.IPTV.community" name="BCIPTV" version="1.0" provider-name="bciptv.pro">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
 	<import addon="script.module.addon.common" />
@@ -8,11 +8,11 @@
         <provides>video executable</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">IPTV Community</summary>
+    <summary lang="en">BCIPTV</summary>
     <website>https://iptv.community/</website>
-    <description lang="en">IPTV Addon for IPTV Community</description>
-    <forum>https://iptv.community/</forum>
-    <email>support@iptv.community</email>
+    <description lang="en">IPTV Addon for BCIPTV</description>
+    <forum>https://bciptv.pro/</forum>
+    <email>support@bciptv.pro</email>
     <platform>all</platform>
   </extension>
 </addon>
