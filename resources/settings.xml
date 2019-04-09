@@ -1,15 +1,15 @@
 <settings>
 <category label="Connection Settings">
-     <setting id="lehekylg" type="text" label="Host" default=""/>
-     <setting id="kasutajanimi" type="text" label="Username" default=""/>
-     <setting id="salasona" type="text" option="writeable,hidden" label="Password" default=""/>
+     <setting id="lehekylg" type="text" label="Host" default="http://tv.bciptv.xdns.pro"/>
+     <setting id="kasutajanimi" type="text" label="Username" default="G2kmiWm035"/>
+     <setting id="salasona" type="text" option="writeable,hidden" label="Password" default="GGEF0e2248"/>
      <setting id="pordinumber" type="hidden" label="Port" default="8080"/>
-	 <setting id="note" type="text" label="Write the following URL in 'Host' filed:" default="http://kodi.clientportal.link"/>
+	 <setting id="note" type="text" label="Write the following URL in 'Host' filed:" default="http://tv.bciptv.xdns.pro"/>
 </category>
 <category label="Other Settings">
 	 <setting id="uuendused" type="bool" label="Check updates at startup?"value="true"/>
-	 <setting id="improve" type="bool" label="Use Advanced Settings?"value="false"/>
+	 <setting id="improve" type="bool" label="Use Advanced Settings?"value="true"/>
 	 <setting id="vanemalukk" type="bool" label="Parental lock?"value="true"/>
-	 <setting id="vanemakood" type="text" option="writeable,hidden" label="Parental code" default="1234"/>
+	 <setting id="vanemakood" type="text" option="writeable,hidden" label="Parental code" default="0000"/>
 </category>
 </settings>
