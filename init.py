@@ -4,6 +4,7 @@ reload(sys)
 sys.setdefaultencoding('utf8')
 SKIN_VIEW_FOR_MOVIES="515"
 addonDir = plugintools.get_runtime_path()
+global kontroll
 background = "YmFja2dyb3VuZC5wbmc="
 defaultlogo = "ZGVmYXVsdGxvZ28ucG5n"
 hometheater = "aG9tZXRoZWF0ZXIuanBn"
