@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.IPTV.community" name="BCIPTV" version="1.0" provider-name="bciptv.pro">
+<addon id="plugin.video.BCIPTV.pro" name="BCIPTV" version="1.0" provider-name="bciptv.pro">
   <extension point="xbmc.python.pluginsource" library="init.py">
         <provides>video executable</provides>
   </extension>
